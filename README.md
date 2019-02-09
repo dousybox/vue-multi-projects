@@ -37,3 +37,13 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Compiles and hot-reloads for writing documents
+```
+npm run docs:dev
+```
+
+### Compiles and publish the documents
+```
+npm run docs:build
+```
